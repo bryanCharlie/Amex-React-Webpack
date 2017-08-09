@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { Navbar, FormGroup, FormControl, Button, Grid, Col, Row } from 'react-bootstrap'
 
-//Using JQuery here because its the most straight forward method I could find.
+//Using JQuery here because its the most straight forward method I could find although its frowned upon.
 
 
 require('isomorphic-fetch')
